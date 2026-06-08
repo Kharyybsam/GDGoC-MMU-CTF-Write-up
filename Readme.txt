@@ -1,0 +1,1 @@
+This is my personal experience on solving my 2nd CTF. It includes forensics and OSINT challenges varying from easy to hard questions. I will divide each challenges to 2 categories, Forensics and OSINT. The difficulty indicator would be present at the pre-name of the challenge (e.g. [EASY] challenge1)
